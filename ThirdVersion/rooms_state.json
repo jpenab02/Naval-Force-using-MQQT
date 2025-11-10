@@ -1,0 +1,10 @@
+{
+  "room1": {
+    "turn": "p1",
+    "state": "playing",
+    "players": [
+      "p1",
+      "p2"
+    ]
+  }
+}
